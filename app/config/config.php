@@ -10,7 +10,7 @@ define('APPROOT', dirname(dirname(__FILE__)));
 //echo APPROOT;
 //URL DE LA APP
 //define('URLROOT', 'htpp://www.eldominio.com/');
-define('URLROOT', 'http://localhost:8080/Biblioteca/');
+define('URLROOT', 'http://localhost/Biblioteca/');
 //Nombre de la aplicación
 define('SITENAME', 'Biblioteca Version MVC');
 //Credenciales para la bd
